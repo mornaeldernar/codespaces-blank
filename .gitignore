@@ -1,1 +1,11 @@
-/ejercicios.py
+# Ignorar el archivo de credenciales de Kaggle
+kaggle.json
+
+# Otros archivos y carpetas comunes a ignorar
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.DS_Store
+.ipynb_checkpoints/
